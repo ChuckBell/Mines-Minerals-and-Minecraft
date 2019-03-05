@@ -1,4 +1,4 @@
-# iceman.py Ð Set the tile Steve is on to ice.
+# iceman.py Set the tile Steve is on to ice.
 from mcpi.minecraft import Minecraft
 from mcpi import block
 mc = Minecraft.create()

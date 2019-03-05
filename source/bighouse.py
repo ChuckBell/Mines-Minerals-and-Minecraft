@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from mcpi.minecraft import Minecraft
 from mcpi import block
 
