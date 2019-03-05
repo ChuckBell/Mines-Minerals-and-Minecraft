@@ -1,4 +1,6 @@
 from mcpi.minecraft import Minecraft
 from mcpi import block
 mc = Minecraft.create()
-mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, 46, 1)
+pos = mc.player.getTilePos()
+mc.setBlocks(pos.x+1, pos.y, pos.z+1,
+             pos.x+6, pos.y+5, pos.z+6, 46, 1)
