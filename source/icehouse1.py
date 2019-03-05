@@ -1,5 +1,5 @@
 # icehouse1.py Ð Building an ice house
-from mcpi.minecraft import Minecraft 
+from mcpi.minecraft import Minecraft  
 from mcpi import block
 mc = Minecraft.create()
 p = mc.player.getTilePos()
