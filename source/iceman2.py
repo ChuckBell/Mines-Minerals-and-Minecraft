@@ -1,4 +1,4 @@
-# iceman2.py Ð Set every tile Steve hits
+# iceman2.py Set every tile Steve hits
 # to ice.
 from mcpi.minecraft import Minecraft
 from mcpi import block

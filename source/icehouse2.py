@@ -1,4 +1,4 @@
-# icehouse2.py Ð Building an ice house with carpet
+# icehouse2.py Building an ice house with carpet
 from mcpi.minecraft import Minecraft   
 from mcpi import block
 mc = Minecraft.create()
