@@ -21,7 +21,7 @@ mc.setBlocks(pos.x - 1, pos.y, pos.z + 3,
 
 #post a message for the player
 mc.postToChat("Get ready ...")
-time.sleep(2)
+time.sleep(5)
 mc.postToChat("Go")
 
 #setup the variables
